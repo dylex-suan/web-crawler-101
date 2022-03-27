@@ -1,0 +1,21 @@
+{
+  "name": "web_crawler_node",
+  "version": "1.0.0",
+  "description": "Building a web crawler for the first time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Dylex Suan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.2.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.1"
+  },
+  "type": "module"
+}
