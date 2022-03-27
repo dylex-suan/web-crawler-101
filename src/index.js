@@ -45,5 +45,5 @@ const crawl = async ({ url }) => {
 }
 
 crawl({
-  url: "http://stevescooking.blogspot.com/"
+  url: "http://dylexsuan.com"
 })
